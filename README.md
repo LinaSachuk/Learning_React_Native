@@ -10,4 +10,4 @@ Get up and running with React Native, the popular framework for building native 
 
 1. from app store for your mobile phone - Expo Client
 2. dev environment -   https://snack.expo.io/ 
-
+3. 
